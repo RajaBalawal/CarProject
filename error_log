@@ -1,0 +1,358 @@
+[09-Oct-2018 15:13:10 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Oct-2018 15:13:10 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 38
+[09-Oct-2018 15:14:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Oct-2018 15:15:49 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Oct-2018 15:15:49 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 38
+[09-Oct-2018 15:17:30 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 38
+[09-Oct-2018 15:17:43 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/index.php on line 97
+[09-Oct-2018 15:17:46 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/index.php on line 97
+[09-Oct-2018 15:17:50 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/index.php on line 97
+[09-Oct-2018 15:34:48 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Oct-2018 15:34:49 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Oct-2018 15:34:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Oct-2018 15:34:53 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Oct-2018 15:34:53 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 38
+[09-Oct-2018 15:34:55 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Oct-2018 15:34:55 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 38
+[09-Oct-2018 15:34:56 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Oct-2018 15:34:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Oct-2018 15:37:03 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 38
+[09-Oct-2018 15:37:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/barrosca/public_html/cartest.php on line 93
+[09-Oct-2018 15:37:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/barrosca/public_html/cartest.php on line 93
+[09-Oct-2018 15:38:00 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 35
+[09-Oct-2018 15:39:22 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 38
+[09-Oct-2018 15:39:56 America/Chicago] PHP Fatal error:  Call to a member function fetch() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:41:51 America/Chicago] PHP Fatal error:  Call to a member function fetch() on null in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:41:52 America/Chicago] PHP Fatal error:  Call to a member function fetch() on null in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:44:10 America/Chicago] PHP Fatal error:  Call to a member function fetch() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:44:12 America/Chicago] PHP Fatal error:  Call to a member function fetch() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:44:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:44:21 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:45:16 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:46:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:46:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:46:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:46:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:46:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:46:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:46:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:46:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 45
+[09-Oct-2018 15:50:11 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 21
+[09-Oct-2018 15:52:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 21
+[09-Oct-2018 15:52:38 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 21
+[09-Oct-2018 15:52:40 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 21
+[09-Oct-2018 15:52:49 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 21
+[09-Oct-2018 15:52:50 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 21
+[09-Oct-2018 15:52:50 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 21
+[09-Oct-2018 15:52:50 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 21
+[09-Oct-2018 15:52:50 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 21
+[09-Oct-2018 15:53:11 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 24
+[09-Oct-2018 15:54:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 24
+[09-Oct-2018 15:55:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 24
+[09-Oct-2018 15:55:04 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 24
+[09-Oct-2018 15:55:05 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 24
+[09-Oct-2018 15:56:17 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 24
+[09-Oct-2018 15:56:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/barrosca/public_html/cartest.php on line 24
+[09-Oct-2018 15:57:59 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[09-Oct-2018 16:03:42 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/barrosca/public_html/cartest.php on line 22
+[09-Oct-2018 16:03:42 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 40
+[09-Oct-2018 16:12:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'center' (T_STRING), expecting ',' or ';' in /home/barrosca/public_html/cartest.php on line 22
+[09-Oct-2018 16:12:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/barrosca/public_html/cartest.php on line 33
+[09-Oct-2018 16:12:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/barrosca/public_html/cartest.php on line 33
+[09-Oct-2018 16:13:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/barrosca/public_html/cartest.php on line 32
+[10-Oct-2018 05:30:57 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:05:12 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/index.php on line 97
+[10-Oct-2018 12:06:30 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:09:53 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:12:28 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 39
+[10-Oct-2018 12:12:29 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 39
+[10-Oct-2018 12:17:40 America/Chicago] PHP Fatal error:  Call to a member function close() on null in /home/barrosca/public_html/car.php on line 47
+[10-Oct-2018 12:17:41 America/Chicago] PHP Fatal error:  Call to a member function close() on null in /home/barrosca/public_html/car.php on line 47
+[10-Oct-2018 12:17:49 America/Chicago] PHP Warning:  Illegal string offset 'Make' in /home/barrosca/public_html/car.php on line 54
+[10-Oct-2018 12:17:49 America/Chicago] PHP Warning:  Illegal string offset 'Model' in /home/barrosca/public_html/car.php on line 55
+[10-Oct-2018 12:17:49 America/Chicago] PHP Warning:  Illegal string offset 'Price' in /home/barrosca/public_html/car.php on line 56
+[10-Oct-2018 12:17:49 America/Chicago] PHP Warning:  Illegal string offset 'CarDesc' in /home/barrosca/public_html/car.php on line 57
+[10-Oct-2018 12:17:49 America/Chicago] PHP Warning:  Illegal string offset 'EngineSize' in /home/barrosca/public_html/car.php on line 58
+[10-Oct-2018 12:17:49 America/Chicago] PHP Warning:  Illegal string offset 'CarMilage' in /home/barrosca/public_html/car.php on line 59
+[10-Oct-2018 12:17:49 America/Chicago] PHP Warning:  Illegal string offset 'Fuel' in /home/barrosca/public_html/car.php on line 60
+[10-Oct-2018 12:17:49 America/Chicago] PHP Warning:  Illegal string offset 'CarYear' in /home/barrosca/public_html/car.php on line 61
+[10-Oct-2018 12:17:49 America/Chicago] PHP Warning:  Illegal string offset 'TAX' in /home/barrosca/public_html/car.php on line 62
+[10-Oct-2018 12:17:49 America/Chicago] PHP Warning:  Illegal string offset 'Transmission' in /home/barrosca/public_html/car.php on line 63
+[10-Oct-2018 12:17:49 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 78
+[10-Oct-2018 12:19:15 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:19:25 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/barrosca/public_html/car.php on line 18
+[10-Oct-2018 12:19:25 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 36
+[10-Oct-2018 12:19:26 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/barrosca/public_html/car.php on line 18
+[10-Oct-2018 12:19:26 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 36
+[10-Oct-2018 12:19:42 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:21:05 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:21:06 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:21:14 America/Chicago] PHP Warning:  include(Message.php): failed to open stream: No such file or directory in /home/barrosca/public_html/cartest.php on line 283
+[10-Oct-2018 12:21:14 America/Chicago] PHP Warning:  include(): Failed opening 'Message.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home/barrosca/public_html/cartest.php on line 283
+[10-Oct-2018 12:21:36 America/Chicago] PHP Warning:  include(Message.php): failed to open stream: No such file or directory in /home/barrosca/public_html/cartest.php on line 283
+[10-Oct-2018 12:21:36 America/Chicago] PHP Warning:  include(): Failed opening 'Message.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home/barrosca/public_html/cartest.php on line 283
+[10-Oct-2018 12:25:13 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:25:34 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:26:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:09 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:26:10 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:10 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:26:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:17 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:24 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:24 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/index.php on line 97
+[10-Oct-2018 12:26:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:33 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:33 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:26:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:35 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:26:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:35 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:26:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:26:35 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:27:19 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:27:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:27:22 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:27:24 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:27:24 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:27:26 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:27:26 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:27:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:27:28 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:27:30 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:27:30 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:32:50 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:32:50 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:32:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:32:51 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:32:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:32:52 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 12:34:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:35:57 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:36:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:36:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:37:25 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:37:25 America/Chicago] PHP Fatal error:  Call to a member function prepare() on null in /home/barrosca/public_html/cartest.php on line 33
+[10-Oct-2018 12:38:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:38:00 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 55
+[10-Oct-2018 12:38:02 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:38:02 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 55
+[10-Oct-2018 12:38:02 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:38:02 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 55
+[10-Oct-2018 12:38:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:38:03 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 55
+[10-Oct-2018 12:38:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:38:12 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 55
+[10-Oct-2018 12:38:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:38:12 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 55
+[10-Oct-2018 12:38:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:38:13 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 55
+[10-Oct-2018 12:38:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:38:13 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 55
+[10-Oct-2018 12:38:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:38:14 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 55
+[10-Oct-2018 12:38:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:38:14 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/cartest.php on line 55
+[10-Oct-2018 12:39:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:39:18 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:39:18 America/Chicago] PHP Fatal error:  Call to a member function prepare() on null in /home/barrosca/public_html/cartest.php on line 44
+[10-Oct-2018 12:39:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:39:43 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 12:39:45 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:39:45 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 12:41:29 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:41:38 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:41:38 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 12:41:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:41:39 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 12:47:17 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:47:17 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 12:47:24 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:47:24 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 12:48:56 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:48:56 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 12:48:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:48:58 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 12:49:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:49:00 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 12:49:01 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:49:01 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 12:49:01 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so' - /usr/local/php56/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2018 12:49:01 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:50:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:50:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:51:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:51:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:51:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:51:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:51:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:51:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:52:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 17:52:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 17:52:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 17:52:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 17:52:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 17:52:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 17:52:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 17:52:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 17:52:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 17:52:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 17:57:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.dll' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:57:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/barrosca/public_html/car.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/car.php on line 39
+[10-Oct-2018 17:57:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.dll' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:57:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:57:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.dll' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:57:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:57:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.dll' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:57:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 17:58:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli_mysqlnd.dll' (tried: /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll.so (/usr/local/php72/lib/php/extensions/php_mysqli_mysqlnd.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 12:58:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 18:00:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd.so (/usr/local/php72/lib/php/extensions/mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd.so.so (/usr/local/php72/lib/php/extensions/mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 18:00:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd_mysqli.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 13:00:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 18:00:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd.so (/usr/local/php72/lib/php/extensions/mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd.so.so (/usr/local/php72/lib/php/extensions/mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 18:00:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd_mysqli.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 13:00:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 18:00:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd.so (/usr/local/php72/lib/php/extensions/mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd.so.so (/usr/local/php72/lib/php/extensions/mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 18:00:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd_mysqli.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 13:00:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 18:00:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd.so (/usr/local/php72/lib/php/extensions/mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd.so.so (/usr/local/php72/lib/php/extensions/mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 18:00:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd_mysqli.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 13:00:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 18:00:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd.so (/usr/local/php72/lib/php/extensions/mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd.so.so (/usr/local/php72/lib/php/extensions/mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 18:00:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd_mysqli.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 13:00:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 18:00:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd.so (/usr/local/php72/lib/php/extensions/mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd.so.so (/usr/local/php72/lib/php/extensions/mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 18:00:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd_mysqli.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 13:00:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 18:00:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd.so (/usr/local/php72/lib/php/extensions/mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd.so.so (/usr/local/php72/lib/php/extensions/mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 18:00:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd_mysqli.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 13:00:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 18:00:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd.so (/usr/local/php72/lib/php/extensions/mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd.so.so (/usr/local/php72/lib/php/extensions/mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 18:00:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd_mysqli.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 13:00:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 18:00:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd.so (/usr/local/php72/lib/php/extensions/mysqlnd.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd.so.so (/usr/local/php72/lib/php/extensions/mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 18:00:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd_mysqli.so' (tried: /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so (/usr/local/php72/lib/php/extensions/mysqlnd_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Oct-2018 13:00:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
+[10-Oct-2018 13:00:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/barrosca/public_html/cartest.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/barrosca/public_html/cartest.php on line 46
